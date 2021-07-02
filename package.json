@@ -1,0 +1,46 @@
+{
+  "name": "@zt-mobile/react-native-picker-select-n",
+  "title": "React Native Picker Select N",
+  "version": "1.0.4",
+  "description": "React Native Picker",
+  "main": "src/index.js",
+  "files": [
+    "README.md",
+    "/src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LkyYuen/react-native-picker-select-n.git",
+    "baseUrl": "https://github.com/LkyYuen/react-native-picker-select-n"
+  },
+  "keywords": [
+    "react-native",
+    "dropdown",
+    "picker",
+    "select"
+  ],
+  "author": {
+    "name": "Lky Yuen",
+    "email": "lkylau96@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5",
+    "logkitty": ">=0.7.1",
+    "mem": ">=4.0.0"
+  },
+  "dependencies": {
+    "lodash.isequal": "^4.5.0",
+    "prop-types": "^15.7.2"
+  }
+}
